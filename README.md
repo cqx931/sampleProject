@@ -20,6 +20,7 @@ python title.py
 (Even if you are just running your python files from your IDE or installing your libraries from the code editor, it's still important to have these two sections in your README file.)
 
 ---
+### Sample Project
 
 This repository is an example structure for a standalone project and is created to provide guidance for people who are relatively new to Python.
 Here is a sample project structure for a final project for Technical Basics I.
