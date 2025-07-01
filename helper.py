@@ -6,3 +6,6 @@ def new_beautiful_function():
 
 def new_function_in_class():
     pass
+
+def new_function_in_afternoon():
+    pass

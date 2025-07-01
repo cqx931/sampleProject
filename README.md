@@ -37,6 +37,7 @@ Firstname_Lastname_Title/
 ├── requirements.txt
 └── documentation.md (or documentation.pdf)
 ```
+
 - `title.py`: The entry point of your application. This should contain your primary logic and be the file users run to start your program.
 - `helper.py`: In case you want to split your project into multiple files, you might have more than one `.py` files in your repository. Name them in meaningful way (Ex: if you have a separate file for the class Ghost, name it `ghost.py`)
 - `media/`: Please put all non-code assets into one folder (images, sounds and fonts), so that the rest of your project structure can stay clean. 
